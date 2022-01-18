@@ -51,4 +51,21 @@
             <p>Тел.: 2502-3716</p>
         </footer>
     </body>
+    body {
+    font-family: sans-serif;
+}
+header{
+background-color: aquamarine;}
+header a{background-color:white ;
+padding: 50px;text-decoration: none;}
+header a{padding: 5px;border-radius: 100px;}
+h1{text-align:center;
+color:purple}
+footer{background-color: pink;
+color:purple}
+nav{background-color: aqua;
+}
+nav a{padding: 5px;border-radius: 100px;text-decoration: none;}
+img{background-color: aqua;}
+p{font-size: 20px;}
 </html>
